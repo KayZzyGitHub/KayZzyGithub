@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center"><img src="https://i.imgur.com/w09AwGg.gif" width="200"> 
 
-<!--
-**KayZzyGitHub/KayZzyGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">🐱</h1>
+<p align="center">
+  <b>I'm KayZzy , Developer and Pentester Beginner </b><br>
+  <br></br>
+
+
+### My Languages Skills <br/> <br/> ![Python](https://img.shields.io/badge/-Python-020202?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-020202?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-020202?style=flat-square&logoColor=white&logo=css3)![nodejs](https://img.shields.io/badge/-NodeJS-020202?style=flat-square&logo=Node.js&logoColor=white) 
+
+<p align="center">
+─────────────────────────────────────
+</p>
+
+![KayZzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=KayZzyGithub&show_icons=true&theme=react)
